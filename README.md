@@ -14,7 +14,7 @@ A machine learning project that predicts the likelihood of heart disease using p
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/yourusername/heart_disease_predictor.git
+git clone https://github.com/TheCozbrozYT/heart_disease_predictor.git
 cd heart_disease_predictor
 ```
 
